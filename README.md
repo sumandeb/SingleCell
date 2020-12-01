@@ -29,6 +29,9 @@ Once the protein has been produced, the bacterial cells can be split open to rel
     In vivo: Inside the actual organism
 
     In vitro: Inside a simulated organism but not the actual organism
+    
+    Oligonucleotide: Oligonucleotides are short DNA or RNA molecules. Oligomers are short polymers. The oligomer concept contrasted to that of a polymer which is usually             understood to have a large number of units, possibly thousands or millions. However, there is no sharp distinction between these two concepts.
+    
  5. https://blog.addgene.org/plasmids-101-what-is-a-plasmid
  6. http://wolfson.huji.ac.il/expression/vector/MCS.html
 
