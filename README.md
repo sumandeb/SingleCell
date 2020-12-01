@@ -21,3 +21,5 @@ Once the protein has been produced, the bacterial cells can be split open to rel
 3. https://bio.libretexts.org/Bookshelves/Genetics/Book%3A_Online_Open_Genetics_(Nickle_and_Barrette-Ng)/08%3A_Techniques_of_Molecular_Genetics/8.05%3A_Cloning_DNA_-_Plasmid_Vectors
 
    Purified insulin protein is critical to the treatment of diabetes. Prior to ~1980, insulin for clinical use was isolated from human cadavers or from slaughtered animals such as pigs. Human-derived insulin generally had better pharmacological properties, but was in limited supply and carried risks of disease transmission. By cloning the human insulin gene and expressing it in E. coli, large quantities of insulin identical to the human hormone could be produced in fermenters, safely and efficiently. Today, essentially all insulin is produced from recombinant sources (Figure   8.5.2 ), i.e. human genes and their derivatives expressed in bacteria or yeast.
+   4. Transgene: The gene that is inserted into the vector here.
+   5. 
