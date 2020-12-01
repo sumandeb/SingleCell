@@ -27,3 +27,4 @@ Once the protein has been produced, the bacterial cells can be split open to rel
  4. Transgene: The gene that is inserted into the vector here.
       In vivo: Inside the actual organism
       In vitro: Inside a simulated organism but not the actual organism
+ 5. https://blog.addgene.org/plasmids-101-what-is-a-plasmid
