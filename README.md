@@ -1,4 +1,6 @@
-# 1/12/2020
+# Weekly Updates
+
+## 1/12/2020
 ---------
 Cloning using plasmids: came across the term 'plasmid' while listening to video on Shitgun sequencing using Sanger method. So, I looked for the meaning of 'plasmid' and came across a few sites whose contents on cloning interested me
 
