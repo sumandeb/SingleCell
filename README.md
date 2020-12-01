@@ -1,9 +1,8 @@
-# SingleCell
-1/12/2020
+# 1/12/2020
 ---------
 Cloning using plasmids: came across the term 'plasmid' while listening to video on Shitgun sequencing using Sanger method. So, I looked for the meaning of 'plasmid' and came across a few sites whose contents on cloning interested me
 
-1. < https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/biotechnology/v/dna-cloning-and-recombinant-dna >
+1. https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/biotechnology/v/dna-cloning-and-recombinant-dna
    https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/biotechnology/a/overview-dna-cloning
 
 These links talk about DNA cloning in a simplified manner. Using restriction enzymes (2 - one for each end), the gene (to be cloned) is cut from the DNA and then inserted into a plasmid (which is a circular genetic material outside the DNA) with the help of DNA ligase (forms phospho-diester bond between the 3′-hydroxyl end of one restriction-fragment strand and the 5′-phosphate end of another restriction-fragment strand; previously, the sticky ends were just transiently base-paired using H-bonds). The plasmid (recombinant DNA: DNA assembled out of fragments from multiple sources) is then inserted into another bacteria, usually of E. Coli, by applying heat shock. Some E.Coli cells accept the plasmid wheareas others don't. The E. Coli bacteria are then allowed to multiply in a cell-culture dish by providing nutrients and favourable temperature. The E.Coli which didnt accept the plasmids are prevented from growing by: i) injecting antibiotic-resistance gene into the plasmid prior to heat shock. The plasmid contains antibiotic-resistance gene. ii) providing anti-biotics along with nutrients in the cell-culture dish. E. Coli which didn't accept the plasmid perish in the presence of antibiotics. Bacteria without a plasmid will die, while bacteria carrying a plasmid can live and reproduce. The E.Coli which accepted the plasmid grow and reproduce. The plasmids containing the gene-to-be-cloned get replicated along with them. 
