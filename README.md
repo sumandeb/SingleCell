@@ -38,3 +38,5 @@ Once the protein has been produced, the bacterial cells can be split open to rel
     Multiple cloning sites allow us the freedom to use any of multiple restriction enzymes for cloning.
     
  7. “Recombinant vector molecule cannot be created unless the vector and source DNA is cut with the same restriction enzyme”
+ 8. https://www.youtube.com/watch?v=I87FjjhdcMU&ab_channel=subratadas
+    Why is cloning needed prior to Sanger sequencing?
