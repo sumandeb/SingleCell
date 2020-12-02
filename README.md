@@ -58,14 +58,12 @@ Once the protein has been produced, the bacterial cells can be split open to rel
      
      **Are the PCR primers and the Taq Polymerase originally in the solution when denaturation is occurring, or are the primers added during annealing and the Taq polymerase added during extension?**  
      **Ans:** Primers and Taq polymerise are added at the beginning. Everything is in the same solution but the temperature of PCR machine controls which step is proceeding at a time.  
-     **You wound need to do DNA sequencing to know what kind of primer to buy based on where you would like the DNA to be started from.**  
-     
-     **Why do we need to do PCR before cloning? Both cloning and PCR are methods of amplifying. If a gene can be amplified by PCR, then why do we need to go for cloning?**  
+     **You wound need to do DNA sequencing to know what kind of primer to buy based on where you would like the DNA to be started from.**    
      
      **Two primers are used in PCR -- for marking the start and end of the area of interest**  
      
      **Usually when we do PCR we know the sequence , so we design the primers to bind the ends of the sequence we want to amplify.**  
-     
+     **Why do we need to do PCR before cloning? Both cloning and PCR are methods of amplifying. If a gene can be amplified by PCR, then why do we need to go for cloning?**
      **What is the difference between PCR and DNA cloning? I know the procedure is different, but both make copies of DNA. Why would you need to do PCR and then use a vector instead of just PCR?**  
      **Ans:** There are a number of reasons why you might want to clone into a vector rather than just doing PCR:
 
@@ -80,3 +78,6 @@ Once the protein has been produced, the bacterial cells can be split open to rel
      **The DNA polymerase molecules are very stable and get reused in each cycle of the PCR. Polymerases can fall off — this can happen at random due to the thermal motion of the molecules; you could think of the polymerase as someone riding a bucking horse — sometimes they get thrown off. Damaged DNA can also cause a polymerase to stall, which increases the chance of it falling off.By the way, replinishing DNA polymerase in each cycle will be expensive**  
      
      **The fact that the primer concentration is much higher than DNA concentration, so statistically a primer is much more likely to bind to the DNA strand than a complementary strand.**  
+     
+     **In PCR, what happens to the DNA before the forward primer and beyond the reverse primer i.e. outside the region of interest?**  
+     
