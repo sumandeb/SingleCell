@@ -41,6 +41,7 @@ Once the protein has been produced, the bacterial cells can be split open to rel
  8. https://www.youtube.com/watch?v=I87FjjhdcMU&ab_channel=subratadas
     
     Why is cloning needed prior to Sanger sequencing?
+    
     What are primers?
     Ans: A primer is a strand of short nucleic acid sequences (generally about 10 base pairs) that serves as a starting point for DNA synthesis. It is required for DNA                    replication because the enzymes that catalyze this process, DNA polymerases, can only add new nucleotides to an existing strand of DNA (it needs a 3' OH to attach to).          The polymerase starts replication at the 3'-end of the primer, and copies the opposite strand.
 
