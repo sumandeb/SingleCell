@@ -58,10 +58,21 @@ Once the protein has been produced, the bacterial cells can be split open to rel
      
      **Are the PCR primers and the Taq Polymerase originally in the solution when denaturation is occurring, or are the primers added during annealing and the Taq polymerase added during extension?**  
      **Ans:** Primers and Taq polymerise are added at the beginning. Everything is in the same solution but the temperature of PCR machine controls which step is proceeding at a time.  
-     **you wound need to do DNA sequencing to know what kind of primer to buy based on where you would like the DNA to be started from.**  
+     **You wound need to do DNA sequencing to know what kind of primer to buy based on where you would like the DNA to be started from.**  
      
-     **why do we need to do PCR before cloning? Both cloning and PCR are methods of amplifying. If a gene can be amplified by PCR, then why do we need to go for cloning?**  
+     **Why do we need to do PCR before cloning? Both cloning and PCR are methods of amplifying. If a gene can be amplified by PCR, then why do we need to go for cloning?**  
      
      **Two primers are used in PCR -- for marking the start and end of the area of interest**  
      
+     **Usually when we do PCR we know the sequence , so we design the primers to bind the ends of the sequence we want to amplify.**  
      
+     **What is the difference between PCR and DNA cloning? I know the procedure is different, but both make copies of DNA. Why would you need to do PCR and then use a vector instead of just PCR?**  
+     **Ans:** There are a number of reasons why you might want to clone into a vector rather than just doing PCR:
+
+       * Vectors can be used to do different things with the DNA. A common example of this would be an expression vector — this causes the DNA to be transcribed and translated and would allow you to examine the protein encoded in the cloned DNA.  
+       * PCR is somewhat error prone, so if you need a lot of DNA having a bacterium make copies of it for you is much less likely to introduce mutations.  
+       * PCR is also more expensive if you want to make large amounts of DNA.  
+       * DNA is more stable as a circular plasmid, rather than a linear piece of DNA — this means to store DNA for any length of time you probably want to clone it into a vector anyway.  
+       * Long term storage — you can make a frozen (-80°C) stock of the bacteria containing the plasmid bearing the piece of DNA and you or someone else who wants to reuse that DNA can access it decades later by simply adding the bacteria to media and growing up as much as you want.
+
+       In fact, we will often use PCR to create enough of a specific fragment to put into a vector, which then gets transformed into Escherichia coli (often abbreviated to E.    coli). We will then often sequence the cloned fragment to make sure we got what we really wanted and that it doesn't have any mutations. This cloned DNA can now be stored and manipulated in whatever ways are necessary for our experiments.
