@@ -36,3 +36,5 @@ Once the protein has been produced, the bacterial cells can be split open to rel
  6. http://wolfson.huji.ac.il/expression/vector/MCS.html
 
     Multiple cloning sites allow us the freedom to use any of multiple restriction enzymes for cloning.
+    
+ 7. “Recombinant vector molecule cannot be created unless the vector and source DNA is cut with the same restriction enzyme”
