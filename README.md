@@ -53,8 +53,10 @@ Once the protein has been produced, the bacterial cells can be split open to rel
          Thus, if you don't use PCR to amplify the fragment, then you would need to extract DNA from billions of cells. This is possible, but then you would also need to                  separate the fragment you cared about from the millions or billions of other fragments that came from cutting up all the DNA in a cell.
          With PCR you can instead make billions of copies of the piece of DNA you care about while the DNA you don't care about remains unamplified.
          
-     **How do people know what sequence to pick for their primer when ordering from a company?**
+     **How do people know what sequence to pick for their primer when ordering from a company?**  
      **Ans:** They have to do an experiment to find the exact primer to use.
      
      **Are the PCR primers and the Taq Polymerase originally in the solution when denaturation is occurring, or are the primers added during annealing and the Taq polymerase added during extension?**  
      **Ans:** Primers and Taq polymerise are added at the beginning. Everything is in the same solution but the temperature of PCR machine controls which step is proceeding at a time.  
+     **you wound need to do DNA sequencing to know what kind of primer to buy based on where you would like the DNA to be started from.**  
+     
