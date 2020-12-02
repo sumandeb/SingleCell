@@ -40,7 +40,7 @@ Once the protein has been produced, the bacterial cells can be split open to rel
  7. “Recombinant vector molecule cannot be created unless the vector and source DNA is cut with the same restriction enzyme”
  8. https://www.youtube.com/watch?v=I87FjjhdcMU&ab_channel=subratadas
     
-    **Why is cloning needed prior to Sanger sequencing?**
+    **Why is amplification needed prior to Sanger sequencing/cloning?**
     
     **What are primers?**  
     **Ans:** A primer is a strand of RNA. It is a short nucleic acid sequences (generally about 10 base pairs) that serves as a starting point for DNA synthesis. It is required for DNA                    replication because the enzymes that catalyze this process, DNA polymerases, can only add new nucleotides to an existing strand of DNA (it needs a 3' OH to attach to).          The polymerase starts replication at the 3'-end of the primer, and copies the opposite strand.
@@ -76,3 +76,7 @@ Once the protein has been produced, the bacterial cells can be split open to rel
        * Long term storage — you can make a frozen (-80°C) stock of the bacteria containing the plasmid bearing the piece of DNA and you or someone else who wants to reuse that DNA can access it decades later by simply adding the bacteria to media and growing up as much as you want.
 
        In fact, we will often use PCR to create enough of a specific fragment to put into a vector, which then gets transformed into Escherichia coli (often abbreviated to E.    coli). We will then often sequence the cloned fragment to make sure we got what we really wanted and that it doesn't have any mutations. This cloned DNA can now be stored and manipulated in whatever ways are necessary for our experiments.
+
+     **The DNA polymerase molecules are very stable and get reused in each cycle of the PCR. Polymerases can fall off — this can happen at random due to the thermal motion of the molecules; you could think of the polymerase as someone riding a bucking horse — sometimes they get thrown off. Damaged DNA can also cause a polymerase to stall, which increases the chance of it falling off.By the way, replinishing DNA polymerase in each cycle will be expensive**  
+     
+     **The fact that the primer concentration is much higher than DNA concentration, so statistically a primer is much more likely to bind to the DNA strand than a complementary strand.**  
