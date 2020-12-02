@@ -40,17 +40,16 @@ Once the protein has been produced, the bacterial cells can be split open to rel
  7. “Recombinant vector molecule cannot be created unless the vector and source DNA is cut with the same restriction enzyme”
  8. https://www.youtube.com/watch?v=I87FjjhdcMU&ab_channel=subratadas
     
-    Why is cloning needed prior to Sanger sequencing?
+    **Why is cloning needed prior to Sanger sequencing?**
     
-    What are primers?
-    Ans: A primer is a strand of short nucleic acid sequences (generally about 10 base pairs) that serves as a starting point for DNA synthesis. It is required for DNA                    replication because the enzymes that catalyze this process, DNA polymerases, can only add new nucleotides to an existing strand of DNA (it needs a 3' OH to attach to).          The polymerase starts replication at the 3'-end of the primer, and copies the opposite strand.
-    
-         In most cases of natural DNA replication, the primer for DNA synthesis and replication is a short strand of RNA (which can be made de novo).
+    **What are primers?**
+    **Ans:** A primer is a strand of RNA. It is a short nucleic acid sequences (generally about 10 base pairs) that serves as a starting point for DNA synthesis. It is required for DNA                    replication because the enzymes that catalyze this process, DNA polymerases, can only add new nucleotides to an existing strand of DNA (it needs a 3' OH to attach to).          The polymerase starts replication at the 3'-end of the primer, and copies the opposite strand.
+   
  9. Polymerase Chain Reaction (PCR): https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/biotechnology/v/the-polymerase-chain-reaction-pcr
     
-    Why do we need PCR? 
+    **Why do we need PCR?** 
     
-    Ans: To have enough DNA to clone or see on a gel you typically need billions of individual strands! For example, in general you will need around 10 ng (a     nanogram is              10⁻⁹ grams) of DNA to reliably see a band.
+    **Ans:** To have enough DNA to clone or see on a gel you typically need billions of individual strands! For example, in general you will need around 10 ng (a     nanogram is              10⁻⁹ grams) of DNA to reliably see a band.
          To convert grams to numbers of molecules you can use the average mass of a single nucleotide (remember to double this for double stranded DNA):
          309 g/mol.
          So, for a 100 bp fragment of double stranded DNA I get ~9.7 x 10¹⁰ molecules. Similarly, for a 1 kb fragment you would need ~9.7 x 10⁹ molecules.
