@@ -60,3 +60,8 @@ Once the protein has been produced, the bacterial cells can be split open to rel
      **Ans:** Primers and Taq polymerise are added at the beginning. Everything is in the same solution but the temperature of PCR machine controls which step is proceeding at a time.  
      **you wound need to do DNA sequencing to know what kind of primer to buy based on where you would like the DNA to be started from.**  
      
+     **why do we need to do PCR before cloning? Both cloning and PCR are methods of amplifying. If a gene can be amplified by PCR, then why do we need to go for cloning?**  
+     
+     **Two primers are used in PCR -- for marking the start and end of the area of interest**  
+     
+     
