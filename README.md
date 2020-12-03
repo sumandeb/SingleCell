@@ -4,7 +4,7 @@
 ---------
 
 
-###Cloning using plasmids: 
+### Cloning using plasmids: 
 Came across the term 'plasmid' while listening to video on Shitgun sequencing using Sanger method. So, I looked for the meaning of 'plasmid' and came across a few sites whose contents on cloning interested me
 
 1. https://www.khanacademy.org/science/ap-biology/gene-expression-and-regulation/biotechnology/v/dna-cloning-and-recombinant-dna
