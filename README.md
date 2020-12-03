@@ -2,8 +2,8 @@
 
 ## 1/12/2020
 =============  
-### Sequencing
---------------
+### Sequencing Techniques
+-------------------------
 
 ### Cloning using Plasmids
 --------------------------
@@ -85,4 +85,4 @@ Once the protein has been produced, the bacterial cells can be split open to rel
      **The fact that the primer concentration is much higher than DNA concentration, so statistically a primer is much more likely to bind to the DNA strand than a complementary strand.**  
      
      **In PCR, what happens to the DNA before the forward primer and beyond the reverse primer i.e. outside the region of interest?**  
-     
+     **Why do we need to amplify before cloning?**       
