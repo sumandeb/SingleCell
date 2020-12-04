@@ -6,7 +6,9 @@
 -------------------------
 1. https://www.khanacademy.org/science/high-school-biology/hs-molecular-genetics/hs-biotechnology/a/dna-sequencing  
 
-Sanger sequencing is still in wide use for the sequencing of individual pieces of DNA, such as fragments used in DNA cloning or generated through polymerase chain reaction (PCR). 
+Sanger sequencing is still in wide use for the sequencing of individual pieces of DNA, such as fragments used in DNA cloning or generated through polymerase chain reaction (PCR). The pieces produced by PCR need to be verified through sequencing.  
+>This process is repeated in a number of cycles. By the time the cycling is complete, it’s virtually guaranteed that a dideoxy nucleotide will have been incorporated at every single position of the target DNA in at least one reaction. That is, the tube will contain fragments of different lengths, ending at each of the nucleotide positions in the original DNA (see figure below). The ends of the fragments will be labeled with dyes that indicate their final nucleotide.
+
 ### Cloning using Plasmids
 --------------------------
 Came across the term 'plasmid' while listening to video on Shitgun sequencing using Sanger method. So, I looked for the meaning of 'plasmid' and came across a few sites whose contents on cloning interested me
