@@ -4,7 +4,9 @@
 =============  
 ### Sequencing Techniques
 -------------------------
+1. https://www.khanacademy.org/science/high-school-biology/hs-molecular-genetics/hs-biotechnology/a/dna-sequencing  
 
+Sanger sequencing is still in wide use for the sequencing of individual pieces of DNA, such as fragments used in DNA cloning or generated through polymerase chain reaction (PCR). 
 ### Cloning using Plasmids
 --------------------------
 Came across the term 'plasmid' while listening to video on Shitgun sequencing using Sanger method. So, I looked for the meaning of 'plasmid' and came across a few sites whose contents on cloning interested me
