@@ -15,6 +15,8 @@ Because of the following reason, a large number of copies of the target gene are
 Note:  
 >"It's a matter of chance whether a dideoxy nucleotide gets incorporated in a particular polymerization reaction. Some newly synthesized pieces of DNA will consist only of normal, unlabeled nucleotides, and will simply end when the polymerase falls of the template, not due to the addition of a chain-terminating nucleotide. These unlabeled DNA molecules do not interfere with the sequencing reaction, as they are "invisible" in the detection step due to their lack of a dye label."
 
+The polymerase stops when it attaches a ddNTP.  
+
 #### Next Generation Sequencing
 > "Conceptually, next-generation sequencing is kind of like running a very large number of tiny Sanger sequencing reactions in parallel. Thanks to this parallelization and small scale, large quantities of DNA can be sequenced much more quickly and cheaply with next-generation methods than with Sanger sequencing."
 
