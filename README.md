@@ -9,11 +9,13 @@
 
 Sanger sequencing is still in wide use for the sequencing of individual pieces of DNA, such as fragments used in DNA cloning or generated through polymerase chain reaction (PCR). The pieces produced by PCR need to be verified through sequencing.  
 
-Because of the following reason, a large number of copies of the target gene are required. These copies are produced by using PCR.
+Sanger Sequencing works for small sequences. So, the DNA is first splitted into smaller parts. Because of the following reason, a large number of copies of each of these parts are produced. These copies can be produced using PCR or cloning.
 > "This process is repeated in a number of cycles. By the time the cycling is complete, it’s virtually guaranteed that a dideoxy nucleotide will have been incorporated at every single position of the target DNA in at least one reaction. That is, the tube will contain fragments of different lengths, ending at each of the nucleotide positions in the original DNA (see figure below). The ends of the fragments will be labeled with dyes that indicate their final nucleotide."
 
 Note:  
 >"It's a matter of chance whether a dideoxy nucleotide gets incorporated in a particular polymerization reaction. Some newly synthesized pieces of DNA will consist only of normal, unlabeled nucleotides, and will simply end when the polymerase falls of the template, not due to the addition of a chain-terminating nucleotide. These unlabeled DNA molecules do not interfere with the sequencing reaction, as they are "invisible" in the detection step due to their lack of a dye label."
+
+
 
 The polymerase stops when it attaches a ddNTP.  
 
