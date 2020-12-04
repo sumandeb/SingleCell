@@ -4,6 +4,7 @@
 =============  
 ### Sequencing Techniques
 -------------------------
+#### Sanger Sequencing
 1. https://www.khanacademy.org/science/high-school-biology/hs-molecular-genetics/hs-biotechnology/a/dna-sequencing  
 
 Sanger sequencing is still in wide use for the sequencing of individual pieces of DNA, such as fragments used in DNA cloning or generated through polymerase chain reaction (PCR). The pieces produced by PCR need to be verified through sequencing.  
@@ -13,6 +14,9 @@ Because of the following reason, a large number of copies of the target gene are
 
 Note:  
 >"It's a matter of chance whether a dideoxy nucleotide gets incorporated in a particular polymerization reaction. Some newly synthesized pieces of DNA will consist only of normal, unlabeled nucleotides, and will simply end when the polymerase falls of the template, not due to the addition of a chain-terminating nucleotide. These unlabeled DNA molecules do not interfere with the sequencing reaction, as they are "invisible" in the detection step due to their lack of a dye label."
+
+#### Next Generation Sequencing
+> "Conceptually, next-generation sequencing is kind of like running a very large number of tiny Sanger sequencing reactions in parallel. Thanks to this parallelization and small scale, large quantities of DNA can be sequenced much more quickly and cheaply with next-generation methods than with Sanger sequencing."
 
 ### Cloning using Plasmids
 --------------------------
