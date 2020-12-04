@@ -17,6 +17,8 @@ Note:
 
 The polymerase stops when it attaches a ddNTP.  
 
+**How is the primer sequence known at the very beginning of Sanger sequencing? (Seems like a chicken and egg problem)**  
+
 #### Next Generation Sequencing
 > "Conceptually, next-generation sequencing is kind of like running a very large number of tiny Sanger sequencing reactions in parallel. Thanks to this parallelization and small scale, large quantities of DNA can be sequenced much more quickly and cheaply with next-generation methods than with Sanger sequencing."
 
