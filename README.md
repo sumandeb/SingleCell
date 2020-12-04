@@ -7,7 +7,7 @@
 1. https://www.khanacademy.org/science/high-school-biology/hs-molecular-genetics/hs-biotechnology/a/dna-sequencing  
 
 Sanger sequencing is still in wide use for the sequencing of individual pieces of DNA, such as fragments used in DNA cloning or generated through polymerase chain reaction (PCR). The pieces produced by PCR need to be verified through sequencing.  
->This process is repeated in a number of cycles. By the time the cycling is complete, it’s virtually guaranteed that a dideoxy nucleotide will have been incorporated at every single position of the target DNA in at least one reaction. That is, the tube will contain fragments of different lengths, ending at each of the nucleotide positions in the original DNA (see figure below). The ends of the fragments will be labeled with dyes that indicate their final nucleotide.
+> This process is repeated in a number of cycles. By the time the cycling is complete, it’s virtually guaranteed that a dideoxy nucleotide will have been incorporated at every single position of the target DNA in at least one reaction. That is, the tube will contain fragments of different lengths, ending at each of the nucleotide positions in the original DNA (see figure below). The ends of the fragments will be labeled with dyes that indicate their final nucleotide.
 
 ### Cloning using Plasmids
 --------------------------
