@@ -119,4 +119,7 @@ Once the protein has been produced, the bacterial cells can be split open to rel
      **The fact that the primer concentration is much higher than DNA concentration, so statistically a primer is much more likely to bind to the DNA strand than a complementary strand.**  
      
      **In PCR, what happens to the DNA before the forward primer and beyond the reverse primer i.e. outside the region of interest?**  
-     **Why do we need to amplify before cloning?**       
+     **Why do we need to amplify before cloning?**    
+     
+  10. https://www.khanacademy.org/science/high-school-biology/hs-molecular-genetics/hs-biotechnology/v/clone-dinosaurs  
+   - Suppose the entire DNA of a dinosaur has been cloned, 
