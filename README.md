@@ -123,7 +123,6 @@ Once the protein has been produced, the bacterial cells can be split open to rel
 #### Cloning of Dinosaur
 ------------------------
 https://www.khanacademy.org/science/high-school-biology/hs-molecular-genetics/hs-biotechnology/v/clone-dinosaurs  
-   -- **Suppose the entire DNA of a dinosaur has been cloned, then what would be the next steps for it to be fully born as a baby dino?**
    
 > Cloning is possible. Dolly the sheep was the first animal to be cloned, and there are many other examples. However, it would be incredibly difficult--if not nearly impossible--to clone a dinosaur. 
 >
@@ -133,5 +132,7 @@ https://www.khanacademy.org/science/high-school-biology/hs-molecular-genetics/hs
 >
 > Three, should a dinosaur be successfully cloned, it may not live for too long. Defects and other medical problems are known issues among cloning. Dolly the sheep had a lifespan that was only half the lifespan of a sheep. Mammoth DNA injected into mouse cells briefly functioned, but could not divide. Worse yet, the climate may not be suitable for the dinosaurs to live in. Because of global warming, the climate has significantly changed, which will further harm clones that were adapted to a certain climate.
 >
-> For better or for worse, dinosaurs probably cannot be cloned. For these reasons and more, a dinosaur clone is both extremely difficult to obtain and extremely difficult to maintain. I am not saying that it is downright impossible; it's just that it is extremely difficult to obtain the materials needed for a successful clone.
+> For better or for worse, dinosaurs probably cannot be cloned. For these reasons and more, a dinosaur clone is both extremely difficult to obtain and extremely difficult to maintain. I am not saying that it is downright impossible; it's just that it is extremely difficult to obtain the materials needed for a successful clone.  
+
+**Suppose the entire DNA of a dinosaur has been cloned, then what would be the next steps for it to be fully born as a baby dino?**
    
