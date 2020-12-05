@@ -122,4 +122,5 @@ Once the protein has been produced, the bacterial cells can be split open to rel
      **Why do we need to amplify before cloning?**    
      
   10. https://www.khanacademy.org/science/high-school-biology/hs-molecular-genetics/hs-biotechnology/v/clone-dinosaurs  
-   - Suppose the entire DNA of a dinosaur has been cloned, 
+   -- Suppose the entire DNA of a dinosaur has been cloned, then what would be the next steps for it to be fully born as a baby dino?
+   
