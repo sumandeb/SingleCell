@@ -19,7 +19,17 @@ Note:
 
 The polymerase stops when it attaches a ddNTP. Then the polymerase falls away.
 
-**How is the primer-sequence known at the very beginning of Sanger sequencing? (Seems like a chicken-and-egg problem)**  
+**How is the primer-sequence known at the very beginning of Sanger sequencing? (Seems like a chicken-and-egg problem)** 
+
+#### Shotgun Sequencing
+-----------------------
+https://www.csus.edu/indiv/r/rogersa/Bio181/SeqShotgun.pdf  
+> "Note that it is important to sequence both strands. While this may seem a waste of effort given the rules of
+Watson-Crick base pairing, the fact is that certain areas on one strand may be difficult to sequence
+accurately (for example, because of local secondary structure formation). The complementary strand,
+however, may sequence well. Using primers from opposite ends will give you sequence for both
+strands."  
+
 
 #### Next Generation Sequencing
 -------------------------------
