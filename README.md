@@ -30,15 +30,14 @@ accurately (for example, because of local secondary structure formation). The co
 however, may sequence well. Using primers from opposite ends will give you sequence for both
 strands."  
 
-
-#### Next Generation Sequencing
--------------------------------
-> "Conceptually, next-generation sequencing is kind of like running a very large number of tiny Sanger sequencing reactions in parallel. Thanks to this parallelization and small scale, large quantities of DNA can be sequenced much more quickly and cheaply with next-generation methods than with Sanger sequencing."
-
 #### Human Genome Project
 -------------------------
 https://bio.libretexts.org/Bookshelves/Biotechnology/Bio-OER_(CUNY)/08%3A_Analyzing_DNA/8.10%3A_Sanger_Sequencing_of_DNA  
 Human cell contains two copies of the human genome -- one from mom, another from dad. Shotgun sequencing which is based on Sanger sequencing was used for Human Genome Sequencing. The Human Genome Project divided the chromosomes among different genome centers. Because a chromosome is also quite long, the genome centers divided the chromosome into smaller pieces (done using restriction enzymes or mechanically by shearing) and then cloned each piece into multiple copies. Each such colony of copies were used for Sanger sequencing. Then, the sequences of different parts of the DNA-piece were combined using computational algorithms. 
+
+#### Next Generation Sequencing
+-------------------------------
+> "Conceptually, next-generation sequencing is kind of like running a very large number of tiny Sanger sequencing reactions in parallel. Thanks to this parallelization and small scale, large quantities of DNA can be sequenced much more quickly and cheaply with next-generation methods than with Sanger sequencing."
 
 ### Cloning using Plasmids
 --------------------------
