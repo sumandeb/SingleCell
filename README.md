@@ -17,7 +17,6 @@ Note:
 >"It's a matter of chance whether a dideoxy nucleotide gets incorporated in a particular polymerization reaction. Some newly synthesized pieces of DNA will consist only of normal, unlabeled nucleotides, and will simply end when the polymerase falls of the template, not due to the addition of a chain-terminating nucleotide. These unlabeled DNA molecules do not interfere with the sequencing reaction, as they are "invisible" in the detection step due to their lack of a dye label."
 
 
-
 The polymerase stops when it attaches a ddNTP. Then the polymerase falls away.
 
 **How is the primer-sequence known at the very beginning of Sanger sequencing? (Seems like a chicken-and-egg problem)**  
@@ -29,7 +28,7 @@ The polymerase stops when it attaches a ddNTP. Then the polymerase falls away.
 #### Human Genome Project
 -------------------------
 https://bio.libretexts.org/Bookshelves/Biotechnology/Bio-OER_(CUNY)/08%3A_Analyzing_DNA/8.10%3A_Sanger_Sequencing_of_DNA  
-Human cell contains two copies of the human genome -- one from mom, another from dad. Shotgun sequencing which is based on Sanger sequencing was used for Human Genome Sequencing. The Human Genome Project divided the chromosomes among different genome centers. Because a chromosome is also quite long, the genome centers divided the chromosome into smaller pieces and then cloned each piece into multiple copies. Each such colony of copies were used for Sanger sequencing. Then, the sequences of different parts of the DNA-piece were combined using computational algorithms. 
+Human cell contains two copies of the human genome -- one from mom, another from dad. Shotgun sequencing which is based on Sanger sequencing was used for Human Genome Sequencing. The Human Genome Project divided the chromosomes among different genome centers. Because a chromosome is also quite long, the genome centers divided the chromosome into smaller pieces (done using restriction enzymes or mechanically by shearing) and then cloned each piece into multiple copies. Each such colony of copies were used for Sanger sequencing. Then, the sequences of different parts of the DNA-piece were combined using computational algorithms. 
 
 ### Cloning using Plasmids
 --------------------------
