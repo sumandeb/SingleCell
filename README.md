@@ -120,7 +120,17 @@ Once the protein has been produced, the bacterial cells can be split open to rel
      
      **In PCR, what happens to the DNA before the forward primer and beyond the reverse primer i.e. outside the region of interest?**  
      **Why do we need to amplify before cloning?**    
-     
+#### Cloning of Dinosaur
   10. https://www.khanacademy.org/science/high-school-biology/hs-molecular-genetics/hs-biotechnology/v/clone-dinosaurs  
    -- Suppose the entire DNA of a dinosaur has been cloned, then what would be the next steps for it to be fully born as a baby dino?
+   
+   Cloning is possible. Dolly the sheep was the first animal to be cloned, and there are many other examples. However, it would be incredibly difficult--if not nearly impossible--to clone a dinosaur.
+
+For one, you need the complete genome of the animal you want to clone. In order to completely code for a dinosaur, you need all of the blueprints for it; otherwise, it may have missing or altered functions. Worse yet, DNA degrades over time. Even if you found a way to slow decomposition, DNA will still fall apart. For example, take the mammoth. In comparison to dinosaurs, mammoths recently went extinct. However, scientists are still considering other ways to clone the mammoth because no intact genome has been found. Frozen mammoths are relatively "new"--however, their genome has been partially destroyed. Now imagine trying to sequence a dinosaur.
+
+Two, for certain processes, you need a compatible mother. For these processes, DNA from the clone would be introduced into a mother, which would then develop into a hybrid clone. If the mother and the clone are too different, the baby is unable to survive (this is why you do not see crazy tiger-gorilla creatures out in the wild, for instance). Looking at the mammoth again, scientists can use modern elephants for mothers. However, as the modern relatives of dinosaurs are birds (this was found through DNA sequencing), it would be extremely difficult to produce a living clone of a dinosaur.
+
+Three, should a dinosaur be successfully cloned, it may not live for too long. Defects and other medical problems are known issues among cloning. Dolly the sheep had a lifespan that was only half the lifespan of a sheep. Mammoth DNA injected into mouse cells briefly functioned, but could not divide. Worse yet, the climate may not be suitable for the dinosaurs to live in. Because of global warming, the climate has significantly changed, which will further harm clones that were adapted to a certain climate.
+
+For better or for worse, dinosaurs probably cannot be cloned. For these reasons and more, a dinosaur clone is both extremely difficult to obtain and extremely difficult to maintain. I am not saying that it is downright impossible; it's just that it is extremely difficult to obtain the materials needed for a successful clone.
    
