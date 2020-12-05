@@ -5,6 +5,7 @@
 ### Sequencing Techniques
 -------------------------
 #### Sanger Sequencing
+----------------------
 1. https://www.khanacademy.org/science/high-school-biology/hs-molecular-genetics/hs-biotechnology/a/dna-sequencing  
 
 Sanger sequencing is still in wide use for the sequencing of individual pieces of DNA, such as fragments used in DNA cloning or generated through polymerase chain reaction (PCR). The pieces produced by PCR need to be verified through sequencing.  
@@ -22,9 +23,11 @@ The polymerase stops when it attaches a ddNTP. Then the polymerase falls away.
 **How is the primer-sequence known at the very beginning of Sanger sequencing? (Seems like a chicken-and-egg problem)**  
 
 #### Next Generation Sequencing
+-------------------------------
 > "Conceptually, next-generation sequencing is kind of like running a very large number of tiny Sanger sequencing reactions in parallel. Thanks to this parallelization and small scale, large quantities of DNA can be sequenced much more quickly and cheaply with next-generation methods than with Sanger sequencing."
 
 #### Human Genome Project
+-------------------------
 https://bio.libretexts.org/Bookshelves/Biotechnology/Bio-OER_(CUNY)/08%3A_Analyzing_DNA/8.10%3A_Sanger_Sequencing_of_DNA  
 Human cell contains two copies of the human genome -- one from mom, another from dad. Shotgun sequencing which is based on Sanger sequencing was used for Human Genome Sequencing. The Human Genome Project divided the chromosomes among different genome centers. Because a chromosome is also quite long, the genome centers divided the chromosome into smaller pieces and then cloned each piece into multiple copies. Each such colony of copies were used for Sanger sequencing. Then, the sequences of different parts of the DNA-piece were combined using computational algorithms. 
 
