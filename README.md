@@ -122,10 +122,10 @@ Once the protein has been produced, the bacterial cells can be split open to rel
      **Why do we need to amplify before cloning?**    
 #### Cloning of Dinosaur
 ------------------------
-  10. https://www.khanacademy.org/science/high-school-biology/hs-molecular-genetics/hs-biotechnology/v/clone-dinosaurs  
+https://www.khanacademy.org/science/high-school-biology/hs-molecular-genetics/hs-biotechnology/v/clone-dinosaurs  
    -- **Suppose the entire DNA of a dinosaur has been cloned, then what would be the next steps for it to be fully born as a baby dino?**
    
-   Cloning is possible. Dolly the sheep was the first animal to be cloned, and there are many other examples. However, it would be incredibly difficult--if not nearly impossible--to clone a dinosaur.
+> Cloning is possible. Dolly the sheep was the first animal to be cloned, and there are many other examples. However, it would be incredibly difficult--if not nearly impossible--to clone a dinosaur.
 
 For one, you need the complete genome of the animal you want to clone. In order to completely code for a dinosaur, you need all of the blueprints for it; otherwise, it may have missing or altered functions. Worse yet, DNA degrades over time. Even if you found a way to slow decomposition, DNA will still fall apart. For example, take the mammoth. In comparison to dinosaurs, mammoths recently went extinct. However, scientists are still considering other ways to clone the mammoth because no intact genome has been found. Frozen mammoths are relatively "new"--however, their genome has been partially destroyed. Now imagine trying to sequence a dinosaur.
 
