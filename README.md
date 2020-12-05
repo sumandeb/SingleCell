@@ -20,7 +20,7 @@ Note:
 The polymerase stops when it attaches a ddNTP. Then the polymerase falls away.
 
 **How is the primer-sequence known at the very beginning of Sanger sequencing? (Seems like a chicken-and-egg problem)**  
-**What if the primer gets attached to both the complementary strands?**  
+**What if the primer gets attached to both the complementary strands of the target DNA?**  
 
 #### Shotgun Sequencing
 -----------------------
