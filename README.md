@@ -18,6 +18,8 @@ https://en.wikipedia.org/wiki/Gene_expression_profiling
 > 
 > Expression profiling experiments often involve measuring the relative amount of mRNA expressed in two or more experimental conditions. This is because altered levels of a specific sequence of mRNA suggest a changed need for the protein coded by the mRNA, perhaps indicating a homeostatic response or a pathological condition. For example, higher levels of mRNA coding for alcohol dehydrogenase suggest that the cells or tissues under study are responding to increased levels of ethanol in their environment. Similarly, if breast cancer cells express higher levels of mRNA associated with a particular transmembrane receptor than normal cells do, it might be that this receptor plays a role in breast cancer. A drug that interferes with this receptor may prevent or treat breast cancer. In developing a drug, one may perform gene expression profiling experiments to help assess the drug's toxicity, perhaps by looking for changing levels in the expression of cytochrome P450 genes, which may be a biomarker of drug metabolism.[2] Gene expression profiling may become an important diagnostic test.
 >
+>In an mRNA or gene expression profiling experiment the expression levels of thousands of genes are simultaneously monitored to study the effects of certain treatments, diseases, and developmental stages on gene expression. For example, microarray-based gene expression profiling can be used to identify genes whose expression is changed in response to pathogens or other organisms by comparing gene expression in infected to that in uninfected cells or tissues.
+>
 > Expression profiling provides new information about what genes do under various conditions. 
 
 ### Sequencing Techniques
