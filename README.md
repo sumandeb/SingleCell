@@ -11,6 +11,12 @@ https://en.wikipedia.org/wiki/Assay
 --------------
 https://en.wikipedia.org/wiki/Microarray  
 
+### Gene Expression Profiling
+-----------------------------
+https://en.wikipedia.org/wiki/Gene_expression_profiling  
+> Expression profiling is a logical next step after sequencing a genome: the sequence tells us what the cell could possibly do, while the expression profile tells us what it is actually doing at a point in time. Genes contain the instructions for making messenger RNA (mRNA), but at any moment each cell makes mRNA from only a fraction of the genes it carries. If a gene is used to produce mRNA, it is considered "on", otherwise "off". Many factors determine whether a gene is on or off, such as the time of day, whether or not the cell is actively dividing, its local environment, and chemical signals from other cells. For instance, skin cells, liver cells and nerve cells turn on (express) somewhat different genes and that is in large part what makes them different. Therefore, an expression profile allows one to deduce a cell's type, state, environment, and so forth.
+> 
+> Expression profiling experiments often involve measuring the relative amount of mRNA expressed in two or more experimental conditions. This is because altered levels of a specific sequence of mRNA suggest a changed need for the protein coded by the mRNA, perhaps indicating a homeostatic response or a pathological condition. For example, higher levels of mRNA coding for alcohol dehydrogenase suggest that the cells or tissues under study are responding to increased levels of ethanol in their environment. Similarly, if breast cancer cells express higher levels of mRNA associated with a particular transmembrane receptor than normal cells do, it might be that this receptor plays a role in breast cancer. A drug that interferes with this receptor may prevent or treat breast cancer. In developing a drug, one may perform gene expression profiling experiments to help assess the drug's toxicity, perhaps by looking for changing levels in the expression of cytochrome P450 genes, which may be a biomarker of drug metabolism.[2] Gene expression profiling may become an important diagnostic test
 
 ### Sequencing Techniques
 -------------------------
