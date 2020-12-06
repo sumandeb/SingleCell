@@ -7,7 +7,6 @@ Following are the things I have read about or done:
 ### Assay
 ---------
 https://en.wikipedia.org/wiki/Assay
-
 ### Microarray
 --------------
 https://en.wikipedia.org/wiki/Microarray  
