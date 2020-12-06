@@ -2,6 +2,17 @@
 
 ## 1/12/2020
 =============  
+Following are the things I have read about or done:  
+
+### Assay
+---------
+https://en.wikipedia.org/wiki/Assay
+
+### Microarray
+--------------
+https://en.wikipedia.org/wiki/Microarray  
+
+
 ### Sequencing Techniques
 -------------------------
 #### Sanger Sequencing
@@ -24,6 +35,9 @@ The polymerase stops when it attaches a ddNTP. Then the polymerase falls away.
 
 #### Shotgun Sequencing
 -----------------------
+
+Craig Venter invented this technique  
+
 https://www.csus.edu/indiv/r/rogersa/Bio181/SeqShotgun.pdf  
 > "Note that it is important to sequence both strands. While this may seem a waste of effort given the rules of
 Watson-Crick base pairing, the fact is that certain areas on one strand may be difficult to sequence
@@ -35,6 +49,8 @@ strands."
 -------------------------
 https://bio.libretexts.org/Bookshelves/Biotechnology/Bio-OER_(CUNY)/08%3A_Analyzing_DNA/8.10%3A_Sanger_Sequencing_of_DNA  
 Human cell contains two copies of the human genome -- one from mom, another from dad. Shotgun sequencing which is based on Sanger sequencing was used for Human Genome Sequencing. The Human Genome Project divided the chromosomes among different genome centers. Because a chromosome is also quite long, the genome centers divided the chromosome into smaller pieces (done using restriction enzymes or mechanically by shearing) and then cloned each piece into multiple copies. Each such colony of copies were used for Sanger sequencing. Then, the sequences of different parts of the DNA-piece were combined using computational algorithms. 
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3068906/  
 
 #### Next Generation Sequencing
 -------------------------------
