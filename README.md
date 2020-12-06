@@ -22,6 +22,13 @@ https://en.wikipedia.org/wiki/Gene_expression_profiling
 >
 > Expression profiling provides new information about what genes do under various conditions. 
 
+### Allele:
+-----------
+https://www.nature.com/scitable/definition/allele-48/  
+> An allele is a variant form of a gene. Some genes have a variety of different forms, which are located at the same position, or genetic locus, on a chromosome. Humans are called diploid organisms because they have two alleles at each genetic locus, with one allele inherited from each parent. Each pair of alleles represents the genotype of a specific gene. Genotypes are described as homozygous if there are two identical alleles at a particular locus and as heterozygous if the two alleles differ. Alleles contribute to the organism's phenotype, which is the outward appearance of the organism.
+>
+> Some alleles are dominant or recessive. When an organism is heterozygous at a specific locus and carries one dominant and one recessive allele, the organism will express the dominant phenotype. Alleles can also refer to minor DNA sequence variations between alleles that do not necessarily influence the gene's phenotype.
+
 ### Sequencing Techniques
 -------------------------
 #### Sanger Sequencing
