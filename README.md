@@ -10,7 +10,7 @@ https://en.wikipedia.org/wiki/Assay
 ### Microarray
 --------------
 https://en.wikipedia.org/wiki/Microarray  
-
+https://en.wikipedia.org/wiki/DNA_microarray
 ### Gene Expression Profiling
 -----------------------------
 https://en.wikipedia.org/wiki/Gene_expression_profiling  
