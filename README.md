@@ -32,7 +32,10 @@ https://www.nature.com/scitable/definition/allele-48/
 ### Genotype:
 -------------
 https://www.nature.com/scitable/definition/genotype-234/#:~:text=In%20a%20broad%20sense%2C%20the,organism's%20complete%20set%20of%20genes.&text=Humans%20are%20diploid%20organisms%2C%20which,allele%20inherited%20from%20each%20parent.
-> In a broad sense, the term "genotype" refers to the genetic makeup of an organism; in other words, it describes an organism's complete set of genes. In a more narrow sense, the term can be used to refer to the alleles, or variant forms of a gene, that are carried by an organism.
+> In a broad sense, the term "genotype" refers to the genetic makeup of an organism; in other words, it describes an organism's complete set of genes. In a more narrow sense, the term can be used to refer to the alleles, or variant forms of a gene, that are carried by an organism.  
+
+https://www.genome.gov/genetics-glossary/genotype  
+
 
 ### Sequencing Techniques
 -------------------------
