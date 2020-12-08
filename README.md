@@ -36,7 +36,7 @@ https://www.nature.com/scitable/definition/genotype-234/#:~:text=In%20a%20broad%
 
 https://www.genome.gov/genetics-glossary/genotype  
 
-### Mendelian Trait:
+### Mendelian Traits:
 --------------------
 Mendelian Traits are those traits which follow Mendel’s rules of only 2 possible versions of a gene (1 dominant, 1 recessive). There are only a few examples of this in humans.  
 https://askabiologist.asu.edu/mendelian-traits-humans  
