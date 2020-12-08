@@ -42,6 +42,11 @@ Mendelian Traits are those traits which follow Mendel’s rules of only 2 possib
 https://askabiologist.asu.edu/mendelian-traits-humans  
 
 
+https://www.ncbi.nlm.nih.gov/books/NBK225676/#:~:text=Genes%20are%20the%20fundamental%20units,set%20of%20all%20the%20genes.&text=In%20humans%2C%20only%205%25%20of,the%20genome%20actually%20encodes%20proteins.  
+> Genes are the fundamental units of heredity, and the genome is the organism's ensemble of genes. The genotype is the individual organism's unique set of all the genes. In a complex manner, the genotype governs the phenotype, which is the ensemble of all traits of the organism's appearance, function, and behavior. Genes are now known to be deoxyribonucleic acid (DNA) sequences from which ribonucleic acid (RNA) is transcribed. The transcripts of most, but not all, genes are then translated into proteins, which are composed of amino acid sequences and which perform most of the cell's functions by virtue of their catalytic activity and the interactions occurring at their specific binding sites. Hence, the gene is required for a phenotypic trait, because it encodes a protein involved in the generation of the trait.
+
+> In his classic experiments of the mid-nineteenth century, Gregor Mendel (1865) chose the pea plant (Pisum sativum) in which to study the segregation and assortment of particulate determinants of phenotypic traits. He was fortunate to choose several traits, each of which was controlled by a single genetic locus. The alleles at each locus, when inherited, acted in either a dominant or recessive manner, and their action was not significantly influenced by other genes or by environmental factors under his conditions of testing. Consequently, he observed precise and interpretable mathematical ratios for the phenotypes of the progeny in each breeding experiment. Traits of phenotype that show such easily interpretable patterns of inheritance are called simple, or Mendelian, traits, and these generally are governed by a single genetic locus.
+
 ### Sequencing Techniques
 -------------------------
 #### Sanger Sequencing
